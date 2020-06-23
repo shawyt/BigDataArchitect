@@ -14,7 +14,7 @@ public class AnalyticsEngineSDK {
 	// 日志打印对象
 	private static final Logger log = Logger.getGlobal();
 	// 请求url的主体部分
-	public static final String accessUrl = "http://node2/log.gif";
+	public static final String accessUrl = "http://node02/log.gif";
 	private static final String platformName = "java_server";
 	private static final String sdkName = "jdk";
 	private static final String version = "1";

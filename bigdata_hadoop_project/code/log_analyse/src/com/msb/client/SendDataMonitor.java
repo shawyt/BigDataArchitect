@@ -106,8 +106,8 @@ public class SendDataMonitor {
 
 				System.out.println("发送url:" + url);
 				// 发送连接请求
-//				in = new BufferedReader(new InputStreamReader(
-//						con.getInputStream()));
+				in = new BufferedReader(new InputStreamReader(
+						con.getInputStream()));
 				// TODO: 这里考虑是否可以
 			} finally {
 				try {
