@@ -49,7 +49,7 @@
 	var tracker = {
 		// config
 		clientConfig : {
-			serverUrl : "http://node2/log.gif",
+			serverUrl : "http://node02/log.gif",
 			sessionTimeout : 360, // 360s -> 6min
 			maxWaitTime : 3600, // 3600s -> 60min -> 1h
 			ver : "1"
